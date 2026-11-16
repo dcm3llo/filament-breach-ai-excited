@@ -1,0 +1,2 @@
+# Development renderer only. The grading runtime uses the standard library.
+Pillow==13.0.0
